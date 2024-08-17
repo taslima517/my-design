@@ -1,0 +1,262 @@
+  
+body{
+    background-color: white;
+    margin: auto;
+
+}
+main{
+    font-family: 'Courier New', Courier, monospace;
+}
+.main_title{
+
+    margin-left: 60px;
+}
+.main_header{
+   display: flex;
+   align-items: center;
+   justify-content: space-between;
+
+}
+.btn_primary{
+    border-radius: 20px;
+    margin: 20px;
+    margin-right: 50px;
+    font-size: 20px;
+    color: rgb(16, 16, 16);
+    padding: 15px;
+    font-weight: 700;
+    background-color: white;
+
+   
+   
+}
+.banner{
+       justify-content: space-between;
+       text-align: center;
+       background-image:url(B10A1-Challenge-Begins-main/assets/Hero-bg.png);
+       background-repeat: no-repeat;
+
+}
+.first_info{
+    font-size: 60px;
+    margin: 25px;
+    font-weight: 700;
+    padding: 15px;
+
+}
+.contact{
+    background-color: black;
+    font-size: 20px;
+    font-weight: 700;
+    color: white;
+    padding: 20px;
+    border: 0;
+    display: inline-block;
+    margin: 30px;
+    border-radius: 20px;
+}
+.banner_two{
+    max-width: 1050;
+    padding: 40px;
+    background-color: rgb(233, 240, 237);
+   margin: 70px;
+    display: block;
+}
+.second_info{
+    font-size: 40px;
+    margin: 20px;
+    font-weight: 500;
+    padding: 15px;
+    text-align: center;
+
+
+
+}
+.by_info{
+    text-align: center;
+    font-size: 20px;
+
+
+}
+.by_part{
+   
+background-color: white;
+   
+display: inline-block;
+   
+width: 450px;
+   
+height: 350px;
+   
+border-radius: 10px;
+   
+/* justify-content: space-between; */
+}
+.h_info{
+    font-size: 29px;
+    margin: 40px;
+    font-weight: 500;
+    padding: 15px;
+    text-align: center;
+    display: flex;
+
+
+}
+.bt_secondpart{
+    display:flex;
+    padding: 30px;
+    justify-content: space-around;
+
+    margin: auto;
+    text-align: center;
+    margin-bottom: 50px;
+    
+    
+}
+.learn{
+
+font-size: 20px;
+
+font-weight: 700;
+
+color: rgb(14, 13, 13);
+
+padding: 10px;
+
+border: 20px;
+
+display:block;
+
+margin: 15px;
+}.banner_three{
+    text-align: center;
+    padding-top: 50px;
+    
+    
+}
+.my{
+    text-align: center;
+    font-size: 40px;
+   
+}
+.my1{
+    text-align: center;
+    font-size: 20px;
+
+
+}
+.mct{
+    text-align: center;
+    font-size: 40px;
+    margin-top: 30px;
+    font-weight: 700;
+}
+.logo_container{
+    display: flex;
+    justify-content: space-around;
+    display: inline block;
+    
+  
+  margin-bottom: 110px;
+}
+.logo_name{
+    font-size: 29px;
+    color: #000;
+    display: block;
+}
+.logo1{
+    font-weight: 400;
+    border: 2px;
+    padding: 25px;
+    background-color: rgba(253, 233, 253, 0.999);
+    
+
+}
+.logo2{
+    font-weight: 400;
+    border: 2px;
+    padding: 25px;
+    background-color: rgba(237, 233, 237, 0.999);
+    
+
+}
+.logo3{
+    font-weight: 400;
+    border: 2px;
+    padding: 25px;
+    background-color:rgba(253, 233, 253, 0.999);
+    
+}
+.mnt{
+    text-align: center;
+    font-size: 40px;
+}
+.logo_container2{
+    display: inline;
+    justify-content: space-around;
+   
+    
+
+    
+}
+.logo{
+    border: 1px solid black;
+    border-radius: 20px;
+    padding: 70px;
+    margin: 90px;
+}
+
+.ins{
+    text-align: center;
+    background-image: url(B10A1-Challenge-Begins-main/assets/handshake.jpg);
+    padding: 80px;
+    
+    border-radius: 20px;
+    overflow: hidden;
+    margin: 19.5px;
+    padding: 40px;
+    background-size: cover;
+    height: 300px;
+    width: 1000px;
+    margin-left:233px;
+    margin-right: 140px;
+    background-position: center;
+    
+
+}
+.buttonn{
+    display: flex;
+    text-align: center;
+}
+.why_web{
+    font-size: 20px;
+    font-weight: 700;
+    color: #fff;
+}
+.lorem_des1{
+    font-size: 20px;
+    color: #fff;
+    word-spacing: 8px;
+    line-height: 1.4;
+    opacity: 0.80;
+}
+.wrapper{
+    width: 500;
+    background: #fff;
+    padding: 10px;
+    border-radius: 5px;
+    margin-top: 35px;
+    display: inline-flex;
+
+}
+footer{
+    display: flex;
+    justify-content: space-between;
+    margin: 50px;
+    padding: 26px;
+    background-color: ghostwhite;
+    border-radius: 10px;
+}
+
+
+
