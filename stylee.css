@@ -35,6 +35,7 @@ main{
        text-align: center;
        background-image:url(B10A1-Challenge-Begins-main/assets/Hero-bg.png);
        background-repeat: no-repeat;
+       font-size: 20px;
 
 }
 .first_info{
@@ -156,8 +157,6 @@ margin: 15px;
     justify-content: space-around;
     display: inline block;
     
-  
-  margin-bottom: 110px;
 }
 .logo_name{
     font-size: 29px;
@@ -194,6 +193,7 @@ margin: 15px;
 .logo_container2{
     display: inline;
     justify-content: space-around;
+    /* margin-top: 100px; */
    
     
 
@@ -203,7 +203,7 @@ margin: 15px;
     border: 1px solid black;
     border-radius: 20px;
     padding: 70px;
-    margin: 90px;
+    margin: 200px;
 }
 
 .ins{
